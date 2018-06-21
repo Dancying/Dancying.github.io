@@ -1,4 +1,2 @@
-The blog of Dancying
+I am glad  to see you in my Github blog 
 ===
-Welcome to see you in my Github blog 
----
