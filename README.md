@@ -1,2 +1,4 @@
-I am glad  to see you in my Github blog 
-===
+#一本正经的修仙的github博客
+
+#####主要是用来记录一些乱七八糟的事情
+#####顺手创建的博客，也就是用来随便写写的
