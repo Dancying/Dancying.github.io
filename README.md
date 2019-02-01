@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #老子懒得更新
 =======
 Dancying的github博客
